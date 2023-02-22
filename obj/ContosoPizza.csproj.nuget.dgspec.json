@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\pityk\\source\\repos\\ContosoPizza\\ContosoPizza.csproj": {}
+    "C:\\Users\\pityk\\source\\repos\\ContosoPizza\\ContosoPizza.csproj": {}
   },
   "projects": {
-    "c:\\Users\\pityk\\source\\repos\\ContosoPizza\\ContosoPizza.csproj": {
+    "C:\\Users\\pityk\\source\\repos\\ContosoPizza\\ContosoPizza.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\pityk\\source\\repos\\ContosoPizza\\ContosoPizza.csproj",
+        "projectUniqueName": "C:\\Users\\pityk\\source\\repos\\ContosoPizza\\ContosoPizza.csproj",
         "projectName": "ContosoPizza",
-        "projectPath": "c:\\Users\\pityk\\source\\repos\\ContosoPizza\\ContosoPizza.csproj",
+        "projectPath": "C:\\Users\\pityk\\source\\repos\\ContosoPizza\\ContosoPizza.csproj",
         "packagesPath": "C:\\Users\\pityk\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\pityk\\source\\repos\\ContosoPizza\\obj\\",
+        "outputPath": "C:\\Users\\pityk\\source\\repos\\ContosoPizza\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
